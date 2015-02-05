@@ -1,7 +1,7 @@
 # Site settings
 title: Peter Briggs
 email: pacbriggs@gmail.com
-url: https://example.github.io
+url: https://pbriggin.github.io
 description: "Showcasing the past video projects of Peter Briggs, this site is a portfolio giving a look into the work of an aspiring videographer."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -12,7 +12,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Peter Briggs
   location: Location
   social: Around the Web
   credits: Credits
