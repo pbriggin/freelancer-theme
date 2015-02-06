@@ -1,6 +1,6 @@
-Branch for demo purposes only.
+Freelancer Jekyll theme
+=========================
 
-<<<<<<< HEAD
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
 ## How to use
@@ -29,6 +29,3 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
-=======
-Do not use for your projects
->>>>>>> FETCH_HEAD

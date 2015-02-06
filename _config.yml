@@ -1,5 +1,4 @@
 # Site settings
-<<<<<<< HEAD
 title: Peter Briggs
 email: pacbriggs@gmail.com
 url: https://pbriggin.github.io
@@ -38,14 +37,6 @@ address:
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-=======
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-twitter_username: jekyllrb
-github_username:  jekyll
-baseurl: "/freelancer-theme"
->>>>>>> FETCH_HEAD
 
 # Build settings
 markdown: kramdown
