@@ -1,7 +1,7 @@
 ---
 layout: default
 "modal-id": 1
-date: {}
+date: 2015-06-02
 img: academythumbnail.png
 alt: "image-alt"
 "project-date": April 2014
