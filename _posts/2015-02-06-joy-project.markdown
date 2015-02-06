@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 3
 date: 2015-02-06
 img: joyprojectthumbnail.png
 alt: image-alt
 project-date: February 2015
 client: Joy Project
 category: Videography
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: The Joy Project is a charity foundation that was founded in 2013 to better the lives of people in our community. It was inspired by a sermon at Southland Christian Church that emphasized the difference between moments of happiness and continuous joy. We believe that in order to achieve continuous joy one needs to unselfishly create joy for those around them. The Joy Project assists local members of the community through acts of kindness.
 
 ---

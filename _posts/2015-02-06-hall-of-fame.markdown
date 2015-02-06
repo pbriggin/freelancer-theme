@@ -1,12 +1,13 @@
 ---
 layout: default
-modal-id: 3
-date: 2014-02-06
+modal-id: 1
+date: 2015-02-06
 img: hofthumbnail.jpg
 alt: image-alt
 project-date: November 2014
 client: Kentucky Entrepreneur Hall of Fame
 category: Videography
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: The Hall of Fame is housed at Awesome Inc’s headquarters in downtown Lexington. Our mission is to raise awareness of the impact that entrepreneurship has made in the Commonwealth and encourage others to pursue similar ambitious endeavors. 
+
 
 ---

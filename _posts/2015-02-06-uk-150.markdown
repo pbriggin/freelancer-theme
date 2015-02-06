@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2015-02-06
 img: uk150thumbnail.jpg
 alt: image-alt
 project-date: November 2014
-client: UK 150
+client: University of Kentucky
 category: Videography
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: The idea for this contest comes courtesy of the University of Michigan's MPowered Entrepreneurship organization and their 1000 Pitches contest, which started way back in 2007. Our goal is to capture that spirit right here in the Bluegrass, on UK's campus. Both iNET and Awesome Inc want to see students unafraid to throw out new ideas in order to stimulate creativity and entrepreneurial conversation in the community.
 
 ---
