@@ -1,4 +1,5 @@
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EyqJmwbnvHk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 layout: default
 modal-id: 4
 date: 2015-02-06
@@ -8,5 +9,5 @@ project-date: December 2014
 client: Awesome Inc
 category: Videography
 description: The 2014 5 Across Finals competition saw the winners from each previous competition in 2014 go head-to-head in a night that promised a $4000 grand prize. The winner of last year’s 5 Across Finals was CompleteSet, pitched by Gary Darna.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EyqJmwbnvHk?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ---
