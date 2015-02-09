@@ -4,6 +4,7 @@ layout: default
 modal-id: 4
 date: 2015-02-06
 img: 5acrossthumbnail.jpg
+video-url: https://www.youtube.com/embed/EyqJmwbnvHk?rel=0&amp;controls=0&amp;showinfo=0
 alt: 5across
 project-date: December 2014
 client: Awesome Inc
