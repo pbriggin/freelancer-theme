@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 date: 2015-02-06
 img: hofthumbnail.jpg
+video-url: https://www.youtube.com/watch?v=ErkNF36rVqw
 alt: image-alt
 project-date: November 2014
 client: Kentucky Entrepreneur Hall of Fame
