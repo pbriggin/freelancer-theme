@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2015-02-06
 img: joyprojectthumbnail.png
-video-url: https://www.youtube.com/embed/0TjxnrWT8Es?rel=0&amp;showinfo=0
+video-url: https://www.youtube.com/embed/0TjxnrWT8Es?rel=0&amp;controls=0&amp;showinfo=0
 alt: image-alt
 project-date: February 2015
 client: Joy Project
