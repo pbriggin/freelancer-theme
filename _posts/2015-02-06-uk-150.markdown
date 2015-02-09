@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2015-02-06
-img: uk150thumbnail.jpg
+video-url: https://www.youtube.com/embed/siO6L42ZHls
 alt: image-alt
 project-date: November 2014
 client: University of Kentucky
