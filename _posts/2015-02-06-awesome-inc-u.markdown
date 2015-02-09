@@ -3,6 +3,7 @@ layout: default
 modal-id: 5
 date: 2015-02-06
 img: academythumbnail.png
+video-url: https://www.youtube.com/embed/ioax1z620vs?rel=0&amp;controls=0&amp;showinfo=0
 alt: image-alt
 project-date: January 2015
 client: Awesome Inc
