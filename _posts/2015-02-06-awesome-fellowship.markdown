@@ -8,5 +8,5 @@ alt: image-alt
 project-date: February 2014
 client: Awesome Inc
 category: Videography
-description: Use this area of the page to describe your project.
+description: The Awesome Fellowship is a mentor-driven program designed to accelerate your high tech startup. You can apply at any time at http://fellowship.awesomeinc.org/
 ---
